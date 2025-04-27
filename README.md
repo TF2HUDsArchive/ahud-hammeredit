@@ -1,7 +1,7 @@
 <div align="center">
 
 # ahud-hammeredit
-### Falkinghammer
+### By Falkinghammer
 
 **[SCREENSHOTS](../screenshots/showcase.md)** -
 **[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
